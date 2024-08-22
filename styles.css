@@ -5,6 +5,27 @@
     width: 100%;
 }
 
+.nav-bar li {
+    display:inline-block;
+    padding: 10px;
+}
+
+.nav-bar li a {
+    text-decoration: none;
+    vertical-align: middle;
+}
+
+.nav-bar ul {
+    float:right;
+    padding-right:30px;
+    text-align: center;
+}
+
+.nav-logo {
+    float:left;
+    padding-left:50px;
+}
+
 html, body {
     background-color: lightgrey;
     margin:0;
