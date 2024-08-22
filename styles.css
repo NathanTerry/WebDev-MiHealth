@@ -1,0 +1,11 @@
+.nav-bar {
+    background-color: white;
+    height: 80px;
+    margin:0;
+    width: 100%;
+}
+
+html, body {
+    background-color: lightgrey;
+    margin:0;
+}
